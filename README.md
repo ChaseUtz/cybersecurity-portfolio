@@ -23,12 +23,17 @@ Skills
 
 Projects
 --------
-Splunk SOC Homelab
+### Splunk SOC Homelab
 
 Built a SOC homelab using Hyper-V, Splunk Enterprise, Ubuntu Server, Windows 11, Sysmon, and pfSense.
 
 [View Project](./splunk-lab/homelab-architecture.md)
 
+### Splunk Dashboard Project
+
+Custom Splunk dashboard for monitoring security events and endpoint activity.
+
+[View Project](./splunk-lab/splunk-dashboard.md)
 
 Current Learning
 ----------------
