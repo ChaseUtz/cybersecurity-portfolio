@@ -23,7 +23,7 @@ Skills
 
 Projects
 --------
-Splunk SOC Homelab
+### Splunk SOC Homelab
 
 Built a SOC homelab using Hyper-V, Splunk Enterprise, Ubuntu Server, Windows 11, Sysmon, and pfSense.
 
