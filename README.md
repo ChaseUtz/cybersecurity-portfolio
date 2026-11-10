@@ -27,7 +27,7 @@ Splunk SOC Homelab
 
 Built a SOC homelab using Hyper-V, Splunk Enterprise, Ubuntu Server, Windows 11, Sysmon, and pfSense.
 
-View Project
+[View Project](splunk-lab/homelab-architecture.md)
 
 Current Learning
 ----------------
