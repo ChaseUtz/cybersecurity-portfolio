@@ -80,24 +80,24 @@ Monitors Sysmon Event ID 1 process creation logs.
 - Threat Hunting
 - Dashboard Creation
 
-## Screenshots
+# Splunk Security Dashboard
 
-## SOC Dashboard Overview
+## Dashboard Overview
 
-![SOC Dashboard](screenshots/splunk-soc-dashboard.png)
+<img src="Splunk%20SOC%20Dashboard.png" width="1000">
 
-## Events by Host
+## Features
 
-![Events by Host](screenshots/splunk-events-by-host.png)
+- Centralized log collection
+- Windows event monitoring
+- pfSense firewall monitoring
+- Log source visualization
+- Event volume tracking
 
-## Log Sources
+## Skills Demonstrated
 
-![Log Sources](screenshots/splunk-log-source.png)
-
-## pfSense Services Activity
-
-![pfSense Activity](screenshots/splunk-pfsense-service-activity.png)
-
-## Total Event Volume
-
-![Total Event Volume](screenshots/splunk-total-event-volume.png)
+- Splunk Enterprise
+- SIEM Administration
+- SPL
+- Log Analysis
+- Security Monitoring
