@@ -84,7 +84,8 @@ Monitors Sysmon Event ID 1 process creation logs.
 
 ## Dashboard Overview
 
-![SOC Dashboard](Splunk%20SOC%20Dashboard.png)
+![SOC Dashboard](./Splunk%20SOC%20Dashboard.png)
+
 
 ## Features
 
