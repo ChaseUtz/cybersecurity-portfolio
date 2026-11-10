@@ -82,4 +82,24 @@ Monitors Sysmon Event ID 1 process creation logs.
 
 ## Screenshots
 
-Screenshot placeholders will be updated as the dashboard is expanded.
+# Dashboard Screenshots
+
+## SOC Dashboard Overview
+
+![SOC Dashboard](Splunk%20SOC%20Dashboard.png)
+
+## Events by Host
+
+![Events by Host](Splunk%20Events%20by%20Host.png)
+
+## Log Sources
+
+![Log Sources](Splunk%20Log%20Source.png)
+
+## pfSense Services Activity
+
+![pfSense Activity](Splunk%20pfsense%20Service%20Activity.png)
+
+## Total Event Volume
+
+![Total Event Volume](Splunk%20Total%20Event%20Volume.png)
