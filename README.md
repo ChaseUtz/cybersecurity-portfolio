@@ -1,84 +1,28 @@
-\# Chase's Cybersecurity Portfolio
+Chase Utz Cybersecurity Portfolio
+Welcome to my cybersecurity portfolio.
 
+Certifications
+CySA+
+Security+
+A+
+Google Cybersecurity Certificate
+Skills
+SIEM Administration
+Log Analysis
+Threat Hunting
+Incident Response
+Windows Administration
+Linux Administration
+Hyper-V Virtualization
+Network Security
+Projects
+Splunk SOC Homelab
+Built a SOC homelab using Hyper-V, Splunk Enterprise, Ubuntu Server, Windows 11, Sysmon, and pfSense.
 
+View Project
 
-\## Certifications
-
-
-
-\- CompTIA CySA+
-
-\- CompTIA Security+
-
-\- CompTIA A+
-
-\- Google Cybersecurity Professional Certificate
-
-
-
-\## Projects
-
-
-
-\### Splunk Lab
-
-
-
-Built a SOC homelab using Splunk, Sysmon, Hyper-V, and Windows endpoints.
-
-
-
-\### Sysmon Detection
-
-
-
-Windows logging and endpoint monitoring investigations.
-
-
-
-\### Wireshark Investigations
-
-
-
-Packet analysis and phishing investigations.
-
-
-
-\### TryHackMe Labs
-
-
-
-Hands-on cybersecurity challenges and walkthroughs.
-
-
-
-\### Incident Reports
-
-
-
-SOC-style alert triage and investigations.
-
-
-
-\## Skills
-
-
-
-\- Splunk
-
-\- Sysmon
-
-\- Wireshark
-
-\- Hyper-V
-
-\- Windows
-
-\- Ubuntu Linux
-
-\- Incident Response
-
-\- Network Analysis
-
-\- SIEM Administration
-
+Current Learning
+Splunk Detection Engineering
+Threat Hunting
+Security Monitoring
+Linux Administration
